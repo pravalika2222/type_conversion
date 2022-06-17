@@ -1,0 +1,9 @@
+# a=3.5
+# print(str(a))
+# print(int(a)
+# a=2
+# print(float(a))
+# print(str(a))
+# x='5'
+# print(int(x))
+# print(float(x))
